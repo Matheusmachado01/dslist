@@ -63,9 +63,13 @@ git clone https://github.com/Matheusmachado01/dslist
 # entrar na pasta do projeto back end
 cd backend
 
+
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+# Autor
 
+Matheus Machado 
 
+https://www.linkedin.com/in/matheus-machado-281a33216/
 
