@@ -40,7 +40,7 @@ Linguagem java  freamework Springboot  |
 - Maven
 - Postman
 - VS Code
-
+-- railway.app
   
 DEPENDÊNCIAS | REFERÊNCIA
 ------------ | ---------------
@@ -50,7 +50,11 @@ SPRING DATA JPA          | https://mvnrepository.com/artifact/org.springframewor
 DEV TOOLS    | https://spring.io/blog/2015/06/17/devtools-in-spring-boot-1-3
 H2 DATABASE  | https://mvnrepository.com/artifact/com.h2database/h2
 
-
+## Implantação em produção
+- Back end: Springboot
+- railway.app
+- Banco de dados: H2 Database
+- Git
 
 ```bash
 # clonar repositório
