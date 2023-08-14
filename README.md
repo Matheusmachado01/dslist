@@ -39,8 +39,9 @@ Linguagem java  freamework Springboot  |
 - PostgreSQL
 - Maven
 - Postman
+- Spring Tool Suite 4
 - VS Code
--- railway.app
+- railway.app
   
 DEPENDÊNCIAS | REFERÊNCIA
 ------------ | ---------------
@@ -67,6 +68,11 @@ cd backend
 # executar o projeto
 ./mvnw spring-boot:run
 ```
+## Layout mobile
+![Mobile 1](https://github.com/Matheusmachado01/dslist/blob/main/assets/Spring_tools.png) ![Mobile 2](https://github.com/Matheusmachado01/dslist/blob/main/assets/Consulta%20Banco%20H2.png)
+![Mobile 3](https://github.com/Matheusmachado01/dslist/blob/main/assets/Postam.png) ![Mobile 4](https://github.com/Matheusmachado01/dslist/blob/main/assets/railwayapp.png)
+
+
 # Autor
 
 Matheus Machado 
